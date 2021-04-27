@@ -1,16 +1,5 @@
-# provider_practice
+# provider_example
 
-A new Flutter project.
+A simple [Flutter](https://flutter.dev) app that uses the [Provider](https://pub.dev/packages/provider) package as state management solution. This app simulates getting data from an api, shows the data as a list of items on the interface and also caches those data to local storage so that it can load those data while offline.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The app also simulates server errors and internet connection errors.
